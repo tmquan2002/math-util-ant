@@ -8,7 +8,7 @@
 
 ### Screenshots
 
-![Build process with ant] (https://github.com/tmquan202/math-util-ant/blob/main/screenshot/build-process-with-ant.png)
+![Build process with ant](https://github.com/tmquan202/math-util-ant/blob/main/screenshot/build-process-with-ant.png)
  
 #### Connect me via quantm.lqd@gmail.com
 #### Copyright &#169; 2022 TMQuan
