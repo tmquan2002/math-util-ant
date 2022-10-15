@@ -1,5 +1,7 @@
 # Welcome to Math Utility Repository
 
+[![CI with GitHub Actions using Ant and JUnit | © 2022 by giao.lang](https://github.com/tmquan202/math-util-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/tmquan202/math-util-ant/actions/workflows/ci-with-ant.yml)
+
 ### You will find this repo the following stuff: 
 
 * The MathUtil.java - a replication of the famous JDK's library java.uti.Math
